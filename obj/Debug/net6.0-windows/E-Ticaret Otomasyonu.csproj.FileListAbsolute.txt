@@ -1,0 +1,43 @@
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\bin\Debug\net6.0-windows\E-Ticaret Otomasyonu.exe
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\bin\Debug\net6.0-windows\E-Ticaret Otomasyonu.deps.json
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\bin\Debug\net6.0-windows\E-Ticaret Otomasyonu.runtimeconfig.json
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\bin\Debug\net6.0-windows\E-Ticaret Otomasyonu.dll
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\bin\Debug\net6.0-windows\ref\E-Ticaret Otomasyonu.dll
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\bin\Debug\net6.0-windows\E-Ticaret Otomasyonu.pdb
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.csproj.AssemblyReference.cache
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E_Ticaret_Otomasyonu.Form1.resources
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.csproj.GenerateResource.cache
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.AssemblyInfoInputs.cache
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.AssemblyInfo.cs
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.csproj.CoreCompileInputs.cache
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.dll
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\ref\E-Ticaret Otomasyonu.dll
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.pdb
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.genruntimeconfig.cache
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E_Ticaret_Otomasyonu.frmAlisVeris.resources
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E_Ticaret_Otomasyonu.frmMusteriler.resources
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\E-Ticaret Otomasyonu\obj\Debug\net6.0-windows\E_Ticaret_Otomasyonu.frmUrunler.resources
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.csproj.AssemblyReference.cache
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E_Ticaret_Otomasyonu.frmAlisVeris.resources
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E_Ticaret_Otomasyonu.frmMusteriler.resources
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E_Ticaret_Otomasyonu.frmUrunler.resources
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E_Ticaret_Otomasyonu.Properties.Resources.resources
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.csproj.GenerateResource.cache
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.AssemblyInfoInputs.cache
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.AssemblyInfo.cs
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.csproj.CoreCompileInputs.cache
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.dll
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\ref\E-Ticaret Otomasyonu.dll
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.pdb
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\bin\Debug\net6.0-windows\E-Ticaret Otomasyonu.exe
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\bin\Debug\net6.0-windows\E-Ticaret Otomasyonu.deps.json
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\bin\Debug\net6.0-windows\E-Ticaret Otomasyonu.runtimeconfig.json
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\bin\Debug\net6.0-windows\E-Ticaret Otomasyonu.dll
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\bin\Debug\net6.0-windows\ref\E-Ticaret Otomasyonu.dll
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\bin\Debug\net6.0-windows\E-Ticaret Otomasyonu.pdb
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.csproj.CopyComplete
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E-Ticaret Otomasyonu.genruntimeconfig.cache
+D:\PROJELERİM\çalışmalarım\C# Projelerim\Github Projelerim\obj\Debug\net6.0-windows\E_Ticaret_Otomasyonu.frmAnaform.resources
